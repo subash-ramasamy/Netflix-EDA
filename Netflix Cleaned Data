@@ -1,0 +1,3 @@
+git add my_folder
+git commit -m "Add Netflix Cleaned Data"
+git push origin your_branch_name
