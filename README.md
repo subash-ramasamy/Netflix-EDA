@@ -3,11 +3,11 @@ Netflix's content strategy with this dataset encompassing over 10,000 movies and
 
 **Key Objectives**
 
-- Transform columns with multiple comma-separated values into multiple rows for enhanced data granularity.
+- Transformation of columns with multiple comma-separated values into multiple rows for enhanced data granularity.
 
-- Impute categorical variable null values as 'unknown_column_name'; replace nulls in continuous variables with zeros for data consistency.
+- Imputed categorical variable null values as 'unknown_column_name'; replace nulls in continuous variables with zeros for data consistency.
 
-- Obtain counts for each category in categorical variables via both non-graphical and graphical analyses.
+- Obtaining counts for each category in categorical variables via both non-graphical and graphical analyses.
 
 - Identified top movie-producing countries and top TV show-producing countries for global content insights.
 
